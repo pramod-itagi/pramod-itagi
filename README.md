@@ -12,6 +12,8 @@
 
 Better retrospectives. Stronger teams. A more thoughtful way to grow.
 
+The application is implemented in Ruby 3.2 and Rails 7.1, with PostgreSQL, Hotwire, and Tailwind CSS.
+
 **Demo:** [https://retroreflect.onrender.com/](https://retroreflect.onrender.com/)
 
 # 💻 Tech Stack:
